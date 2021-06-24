@@ -233,6 +233,10 @@ a{
     transition: ease-in-out 0.5s;
 }
 
+.home-div:active{
+    color: var(--linkcolor);
+}
+
 
 
 .second-nav a{
