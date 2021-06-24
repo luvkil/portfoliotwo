@@ -147,6 +147,12 @@ a{
 #bio-paragraph{
     line-height: 1.65;
 }
+#uncc{
+    transition: ease-in-out 0.5s;
+}
+#uncc a:hover{
+    color: rgb(250,250,210);
+}
 
 .interest-edu{
     display:flex;
@@ -162,12 +168,19 @@ a{
 }
 .education{
     list-style: none;
+    transition: ease-in-out 05s;
 }
 
 #my-interest, #my-education{
     font-family: 'montserrat';
     font-weight: bold;
     color: var(--goldcolor);
+    text-transform: capitalize;
+    transition: ease-in-out 0.5s;
+}
+
+.education a:hover{
+    color:rgb(156, 152, 87);
 }
 
 
@@ -185,11 +198,17 @@ a{
 
 .facebook{
     color:rgb(24, 119, 242) ;
+
+    transition: ease-in-out 0.5s;
 }
+
+
 
 .github{
     color:#c9510c ;
 }
+
+
 
 
 /*projecthtml*/
@@ -225,12 +244,36 @@ a{
 .image-1-div{
     width: 80%;
     height:400px;
-    background-image: url("../images/beauty.jpg");
+    background-image: url("../images/group-project.jpeg");
     object-fit: cover;
     margin-left: 18%;
     background-repeat: no-repeat;
+    background-size: contain;
+    text-align: center;
+}
 
 
+.image-2-div{
+    width: 80%;
+    height:400px;
+    background-image: url("../images/password-generator.jpeg");
+    object-fit: cover;
+    margin-left: 18%;
+    background-repeat: no-repeat;
+    background-size: contain;
+    text-align: center;
+}
+
+
+.image-3-div{
+    width: 80%;
+    height:400px;
+    background-image: url("../images/daily-planner.jpeg");
+    object-fit: cover;
+    margin-left: 18%;
+    background-repeat: no-repeat;
+    background-size: contain;
+    text-align: center;
 }
 
 .image-wrap{
@@ -253,6 +296,7 @@ article{
 
 .special-1,.special-2, .special-3{
     margin-bottom: 15px;
+    text-align: center;
 }
 .special-4{
     margin: 5% 0;
@@ -260,17 +304,23 @@ article{
 }
 #collaborators-work{
     text-align: center;
+
 }
 
  .colabarators-list{
 list-style: none;
-}
+ }
 
+ #mentors, #calab, #project-para{
+     color:var(--backgroundcolor)
+ }
 
 .footer-wrap{
     background-color: var(--greybackground);
     padding: 5%;
     color: white;
+    text-align: center;
+    padding: 10px 0;
 
     
 }
