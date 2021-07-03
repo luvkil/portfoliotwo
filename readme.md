@@ -10,12 +10,10 @@ an **updated resume** and **contact** information.
 * _click _ the project link on the navigation bar to projects and assingnments<br>
 * _click- on collaborators to view the participants of the project and links to their github profile<br>
 * -click_ on resume for an updated resume and contacts for contact information<br>
+### Follow Me:
+* [link to my live portfolio](https://luvkil.github.io/portfoliotwo/)<br>
+* [linken]("https://www.linkedin.com/in/steven097894178/")<br>
+* [Facebook]("https://www.facebook.com/steven.knight.142892")<br>
 
-[ live portfolio](https://luvkil.github.io/portfoliotwo/
-)<br>
-[facebook](https://www.facebook.com/steven.knight.142892
-)<br>
-[linken](https://www.linkedin.com/in/steven097894178/
-)
-
-
+![image](https://user-images.githubusercontent.com/57713429/124366562-b3497f00-dc1e-11eb-8c0c-f6be8f08367b.png)
+gi
