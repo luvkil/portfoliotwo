@@ -11,4 +11,6 @@ an **updated resume** and **contact** information.
 * _click- on collaborators to view the participants of the project and links to their github profile<br>
 * -click_ on resume for an updated resume and contacts for contact information<br>
 
-[link to my portfolio](https://luvkil.github.io/portfoliotwo/)# portfoliotwo
+[link to my portfolio](https://luvkil.github.io/portfoliotwo/)# portfoliotwo<br>
+
+![image](https://user-images.githubusercontent.com/57713429/124366562-b3497f00-dc1e-11eb-8c0c-f6be8f08367b.png)
