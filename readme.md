@@ -12,8 +12,8 @@ an **updated resume** and **contact** information.
 * -click_ on resume for an updated resume and contacts for contact information<br>
 ### Follow Me:
 * [link to my live portfolio](https://luvkil.github.io/portfoliotwo/)<br>
-* [linken]("https://www.linkedin.com/in/steven097894178/")<br>
-* [Facebook]("https://www.facebook.com/steven.knight.142892")<br>
+* [linken](https://www.linkedin.com/in/steven097894178/)<br>
+* [Facebook](https://www.facebook.com/steven.knight.142892)<br>
 
 ![image](https://user-images.githubusercontent.com/57713429/124366562-b3497f00-dc1e-11eb-8c0c-f6be8f08367b.png)
 gi
